@@ -1,4 +1,4 @@
-package br.dev.mhc.hrconfigserver.resources;
+package br.dev.mhc.hruser.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.dev.mhc.hrconfigserver.entities.User;
-import br.dev.mhc.hrconfigserver.repositories.UserRepository;
+import br.dev.mhc.hruser.entities.User;
+import br.dev.mhc.hruser.repositories.UserRepository;
 
 @RestController
 @RequestMapping(value = "/users")

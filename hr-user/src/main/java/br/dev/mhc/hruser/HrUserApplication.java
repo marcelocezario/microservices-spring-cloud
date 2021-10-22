@@ -1,4 +1,4 @@
-package br.dev.mhc.hrconfigserver;
+package br.dev.mhc.hruser;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

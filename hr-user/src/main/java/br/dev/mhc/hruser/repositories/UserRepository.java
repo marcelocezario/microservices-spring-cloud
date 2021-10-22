@@ -1,8 +1,8 @@
-package br.dev.mhc.hrconfigserver.repositories;
+package br.dev.mhc.hruser.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import br.dev.mhc.hrconfigserver.entities.User;
+import br.dev.mhc.hruser.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 	

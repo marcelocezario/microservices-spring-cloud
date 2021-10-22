@@ -1,4 +1,4 @@
-package br.dev.mhc.hrconfigserver.entities;
+package br.dev.mhc.hruser.entities;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package br.dev.mhc.hrconfigserver.config;
+package br.dev.mhc.hruser.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
